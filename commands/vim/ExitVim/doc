@@ -1,0 +1,9 @@
+vim
+
+Description:
+Exit Vim
+
+:w  -> write (save) the file, but don't exit
+:wq -> write (save) and quit
+:q  -> quit (fails if there are unsaved changes)
+:q!  -> quit and throw away unsaved changes

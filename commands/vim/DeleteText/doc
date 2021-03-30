@@ -1,0 +1,18 @@
+vim
+
+Description:
+Delete text
+
+x   -> delete (cut) character
+dw  -> delete (cut) the characters of the word from the
+      cursor position to the start of the next word
+de  -> delete (cut) the characters of the word from the
+      cursor position to the end the current word
+d$  -> delete (cut) to the end of the line
+db  -> delete back to the beginning of the word
+dd  -> delete (cut) a line
+dh  -> delete one left character
+dj  -> delete current line and one down line
+dk  -> delete current line and one up line
+dl  -> delete one right character
+d6w -> Execute command dw 6 times

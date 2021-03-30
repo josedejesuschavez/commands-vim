@@ -1,0 +1,7 @@
+vim
+
+Description:
+Mode visual
+
+v -> change to mode visual
+y -> yank (copy) market text

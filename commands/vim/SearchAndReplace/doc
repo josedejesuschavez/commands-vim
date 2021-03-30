@@ -1,0 +1,10 @@
+vim
+
+Description:
+SearchAndReplace
+
+:s/foo/bar/g   -> Change each 'foo' to 'bar' in the current line
+:s/foo/bar     -> Change first 'foo' to 'bar' in the current line
+:%s/foo/bar/g  -> Change each 'foo' to 'bar' in the current file
+:%s/foo/bar/gc -> Change each 'foo' to 'bar' in the current file,
+                  but ask for confirmation first

@@ -1,0 +1,9 @@
+vim
+
+Description:
+MoveInFiles
+
+gd       -> will take you to the local declaration
+gf       -> open in the same window ('goto file')
+Ctrl + o -> go to older position in jump list
+Ctrl + i -> go to newer position in jump list

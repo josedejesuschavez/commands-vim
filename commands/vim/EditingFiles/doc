@@ -1,0 +1,16 @@
+vim
+
+Description:
+Editing files
+
+u        -> undo
+Ctrl + r -> redo
+p        -> put (paste) the clipboard after cursor
+P        -> put (paster) before cursor
+r        -> replace a single character
+R        -> Change to mode replace
+cw       -> change (replace) to the end of the word
+ciw      -> change (replace) entire word
+o        -> append (open) a new line below the current line
+O        -> append (open) a new line above the current line
+v        -> change to mode visual
